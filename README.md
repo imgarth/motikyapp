@@ -1,5 +1,7 @@
 # motiky -- 蒙太奇 #
 
+短视频app的IOS客户端
+
 蒙太奇: 一个制作微视频的app  just like vine
 
 
